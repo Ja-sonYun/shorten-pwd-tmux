@@ -1,5 +1,6 @@
 # shorten-pwd-tmux
-
+![Alt text](https://github.com/Ja-sonYun/shorten-pwd-tmux/blob/main/sampleimage.png?raw=true "sample")
+===
 add
 ```
 setw -g window-status-format '#(path/to/getshortenpwd.sh "#{pane_current_path}")'
